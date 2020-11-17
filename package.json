@@ -1,0 +1,23 @@
+{
+  "name": "vigilant-spork",
+  "version": "1.0.0",
+  "description": "<!-- Jasmine Snow -->",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasmine-snow/vigilant-spork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasmine-snow/vigilant-spork/issues"
+  },
+  "homepage": "https://github.com/jasmine-snow/vigilant-spork#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
